@@ -8,4 +8,3 @@ echo "My host name is" $HOSTNAME
 echo "My home is" $HOME
 echo "My oprating system type is" $OSTYPE
 echo "My history size" $HISTSIZE
-echo "Show my system variables"set | less
